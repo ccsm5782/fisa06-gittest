@@ -32,9 +32,9 @@ print("hello")
 
 ### 바로가기 
 [네이버로 가기](http:naver.com)
+ 
 
-# 
-
+- 그림 링크 거는 법
 ![고양이로 가기](https://i1.sndcdn.com/avatars-001012314250-242078-t240x240.jpg) 
 
 
@@ -43,8 +43,8 @@ print("hello")
 안녕하세요
 
 
-
-![신짱구](https://i.pinimg.com/originals/4c/23/a3/4c23a3d5440f742d144cc5abeb815ec2.png)
+신짱구 이미지 링크
+![신짱구](https://upload.wikimedia.org/wikipedia/ko/4/4a/%EC%8B%A0%EC%A7%B1%EA%B5%AC.png)
 
 
 
